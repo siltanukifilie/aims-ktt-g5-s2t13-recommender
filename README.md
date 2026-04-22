@@ -243,14 +243,14 @@ Seed: random.seed(42) ensures full reproducibility.
 ## Model on Hugging Face
 
 TF-IDF vectorizer and product index:
-Link to be added after upload
+https://huggingface.co/spaces/sltanu/aims-ktt-g5-s2t13-recommender
 
 ---
 
 ## 4-Minute Video
 
 Full solution walkthrough:
-Link to be added after recording
+https://www.loom.com/share/7c0d5c8427084d759d30f8dfd07710cf
 
 ---
 
